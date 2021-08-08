@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning full stack web development
 - 👯 I’m looking to collaborate on creating intuitive applications
-- ⚡ Fun fact: I love to draw photorealistic potraits
+- ⚡ Fun fact: I love to draw photorealistic portraits
 - 📫 Feel free to contact me bradsamuel97@gmail.com 
 
 
